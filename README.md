@@ -1,5 +1,6 @@
-# buscaminas-react
-Juego buscaminas hecho en React
+# Minessweeper
+
+Minesweeper game made in React
 
 ## How to run
 
