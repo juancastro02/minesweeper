@@ -1,0 +1,22 @@
+
+.mines {
+    margin: 0px;
+    &__active {
+        height: 25px; 
+        width: 25px;
+        background-color: gray;
+        border: 4px inset gray;
+        
+    }
+
+    &__deactivate {
+        height: 25px; 
+        width: 25px;
+        background-color: 	#A9A9A9;
+        border: 2px inset 	#A9A9A9;
+    }
+
+    &__bomb {
+        background-color: red;
+    }
+}

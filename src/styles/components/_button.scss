@@ -1,0 +1,16 @@
+.button {
+    
+    margin: 10px;
+    background-color: gray;
+    border: 4px inset gray;
+    
+    &:active {
+        border: 2px inset gray;
+        
+    }
+
+    &:hover {
+        cursor: pointer;
+    }
+
+}

@@ -1,0 +1,32 @@
+
+body {
+    background-color: goldenrod;
+}
+
+
+.span {
+    &__white {
+        color: white;
+    }
+
+    &__red {
+        color: red;
+    }
+
+    &__green {
+        color: green;
+    }
+
+    &__blue {
+        color: blue;
+    }
+};
+
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}

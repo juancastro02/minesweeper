@@ -1,0 +1,22 @@
+
+.table {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    &__easy {
+
+        width: 250px;
+        height: 250px;
+
+    }
+
+    &__intermediate {
+        width: 500px;
+        height: 500px;
+    }
+
+    &__expert {
+        width: 750px;
+        height: 750px;
+    }
+}
